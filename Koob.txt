@@ -1,4 +1,8 @@
 The old book lay on the table.
 Its pages were yellowed and torn.
+<<<<<<< HEAD
 A note fell out as it was opened.
+=======
+A card fell out as it was opened.
+>>>>>>> main
 Where could it lead?
